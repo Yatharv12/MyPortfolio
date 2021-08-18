@@ -1,0 +1,93 @@
+body{
+    margin: 0%;
+    /* background-color: #2F2FA2; */
+    background-color: #99CED3;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav{
+    /* background-color: #242582; */
+    background-color: #026670;
+    display: inline-block;
+    width: 100%;
+    position: fixed;
+    bottom: 800px;
+}
+.nav-icons{
+    float: right;
+    margin: 25px;
+    font-size: 19.5px;
+}
+.nav-name{
+    margin: 20px;
+    float: left;
+    font-size: 30px;
+}
+#nav-img{
+    border-radius: 50%;
+    float: left;
+    margin: 13px 0px 13px 50px ;
+}
+div{
+    margin-top: 400px;
+    margin: 400px 750px 400px 750px;
+    font-size: 60px;
+}
+#Projects{
+    display: block;
+    margin: 50px 50px;
+}
+h1{
+    font-size: 30px;
+    color: #707070;
+    font-style: bold;
+}
+#AboutMe{
+    display: block;
+    margin: 50px 50px;
+}
+figure{
+    width: 30%;
+    display: inline-block;
+}
+figcaption{
+    text-align: center;
+}
+#fig-name{
+    font-size: 45px;
+    font-style: bold;
+}
+.school{
+    font-style: italic;
+}
+#fig-p{
+    width: 50%;
+    float: right;
+    margin: 100px 100px 0px 0px;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: cyan;
+}
+#figure{
+    border-radius: 50%;
+    filter: blur(5px);
+}
+#figure:hover{
+    filter: blur(0px);
+}
+.project-img{
+    height: auto;
+    width: 25vw;
+    margin: 2.5vw;
+}
+.top-img{
+    height: 40vh;
+}
+h3{
+    text-align: center;
+}
